@@ -1,0 +1,6 @@
+{
+  "name": "Priority Platform",
+  "description": "An incredibly polished, fully interactive dark-themed login and signup portal with password strength validation, responsive state transitions, and interactive visual feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
